@@ -1,0 +1,61 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FM11NC08
+D NFC Type 4 ISO14443-4 Energy Harvesting
+F -
+$ENDCMP
+#
+$CMP FSUSB242
+D IC USB SWITCH DPDT 10UMLP
+$ENDCMP
+#
+$CMP LPC55S69JEV98K
+D LPC55S69 ARM 32-bit M33 TrustZone
+F NXP USA Inc.
+$ENDCMP
+#
+$CMP PUSB3TB6AZ
+D TVS DIODE 4.8V 7XSON
+F https://www.digikey.com/product-detail/en/nexperia-usa-inc/PUSB3TB6AZ/1727-2335-1-ND/5395637
+$ENDCMP
+#
+$CMP RGB_1x1-CL-505S-S-SD-T
+D RGB LED, red/green/blue/anode
+K LED RGB diode
+F ~
+$ENDCMP
+#
+$CMP TLV742p
+D LDO Voltage Regulators 200-mA small-size low-dropout (LDO) linear voltage regulator 4-X2SON -40 to 125
+F http://www.ti.com/lit/ds/sbvs323/sbvs323.pdf
+$ENDCMP
+#
+$CMP USB
+D USB Type A connector
+K connector USB
+F  ~
+$ENDCMP
+#
+$CMP USB_C_Plug
+D USB Type-C Plug connector
+K usb universal serial bus
+F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+$ENDCMP
+#
+$CMP quad_serial_flash
+D GigaDevice GD25Q16C
+$ENDCMP
+#
+$CMP schottky_diode
+D Schottky diode
+K diode Schottky
+F ~
+$ENDCMP
+#
+$CMP tvs_diode
+D Zener diode
+K diode
+F ~
+$ENDCMP
+#
+#End Doc Library
