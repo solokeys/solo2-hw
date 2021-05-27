@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name solo2-rescue)(type Legacy)(uri ${KIPRJMOD}/solo2-rescue.lib)(options "")(descr ""))
+)

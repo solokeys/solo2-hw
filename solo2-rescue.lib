@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# +3.3V-power-solo-A-rescue
+# +3.3V-power-solo-A-rescue-solo2-rescue
 #
-DEF +3.3V-power-solo-A-rescue #PWR 0 0 Y Y 1 F P
+DEF +3.3V-power-solo-A-rescue-solo2-rescue #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "+3.3V-power-solo-A-rescue" 0 140 50 H V C CNN
+F1 "+3.3V-power-solo-A-rescue-solo2-rescue" 0 140 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -16,11 +16,11 @@ X +3V3 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# Antenna_Loop-Device-solo-A-rescue
+# Antenna_Loop-Device-solo-A-rescue-solo2-rescue
 #
-DEF Antenna_Loop-Device-solo-A-rescue AE 0 40 N N 1 F N
+DEF Antenna_Loop-Device-solo-A-rescue-solo2-rescue AE 0 40 N N 1 F N
 F0 "AE" 50 250 50 H V C CNN
-F1 "Antenna_Loop-Device-solo-A-rescue" 50 200 50 H V C CNN
+F1 "Antenna_Loop-Device-solo-A-rescue-solo2-rescue" 50 200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -30,11 +30,11 @@ X ~ 2 100 -200 100 U 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# C-Device-solo-A-rescue
+# C-Device-solo-A-rescue-solo2-rescue
 #
-DEF C-Device-solo-A-rescue C 0 10 N Y 1 F N
+DEF C-Device-solo-A-rescue-solo2-rescue C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "C-Device-solo-A-rescue" 25 -100 50 H V L CNN
+F1 "C-Device-solo-A-rescue-solo2-rescue" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -48,11 +48,11 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Crystal-Device-solo-A-rescue
+# Crystal-Device-solo-A-rescue-solo2-rescue
 #
-DEF Crystal-Device-solo-A-rescue Y 0 40 N N 1 F N
+DEF Crystal-Device-solo-A-rescue-solo2-rescue Y 0 40 N N 1 F N
 F0 "Y" 0 150 50 H V C CNN
-F1 "Crystal-Device-solo-A-rescue" 0 -150 50 H V C CNN
+F1 "Crystal-Device-solo-A-rescue-solo2-rescue" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -69,11 +69,11 @@ X 2 2 150 0 50 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# D_Zener_x2_KCom_AAK-Device-solo-A-rescue
+# D_Zener_x2_KCom_AAK-Device-solo-A-rescue-solo2-rescue
 #
-DEF D_Zener_x2_KCom_AAK-Device-solo-A-rescue D 0 30 Y N 1 F N
+DEF D_Zener_x2_KCom_AAK-Device-solo-A-rescue-solo2-rescue D 0 30 Y N 1 F N
 F0 "D" 50 -100 50 H V C CNN
-F1 "D_Zener_x2_KCom_AAK-Device-solo-A-rescue" 0 100 50 H V C CNN
+F1 "D_Zener_x2_KCom_AAK-Device-solo-A-rescue-solo2-rescue" 0 100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -94,11 +94,11 @@ X K 3 0 -200 100 U 50 50 0 1 P
 ENDDRAW
 ENDDEF
 #
-# GNDREF-power-solo-A-rescue
+# GNDREF-power-solo-A-rescue-solo2-rescue
 #
-DEF GNDREF-power-solo-A-rescue #PWR 0 0 Y Y 1 F P
+DEF GNDREF-power-solo-A-rescue-solo2-rescue #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "GNDREF-power-solo-A-rescue" 0 -150 50 H V C CNN
+F1 "GNDREF-power-solo-A-rescue-solo2-rescue" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -110,11 +110,11 @@ X GNDREF 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# L-Device-solo-A-rescue
+# L-Device-solo-A-rescue-solo2-rescue
 #
-DEF L-Device-solo-A-rescue L 0 40 N N 1 F N
+DEF L-Device-solo-A-rescue-solo2-rescue L 0 40 N N 1 F N
 F0 "L" -50 0 50 V V C CNN
-F1 "L-Device-solo-A-rescue" 75 0 50 V V C CNN
+F1 "L-Device-solo-A-rescue-solo2-rescue" 75 0 50 V V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -133,11 +133,11 @@ X 2 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# LED_RGBA-Device-solo-A-rescue
+# LED_RGBA-Device-solo-A-rescue-solo2-rescue
 #
-DEF LED_RGBA-Device-solo-A-rescue D 0 0 Y N 1 F N
+DEF LED_RGBA-Device-solo-A-rescue-solo2-rescue D 0 0 Y N 1 F N
 F0 "D" 0 370 50 H V C CNN
-F1 "LED_RGBA-Device-solo-A-rescue" 0 -350 50 H V C CNN
+F1 "LED_RGBA-Device-solo-A-rescue-solo2-rescue" 0 -350 50 H V C CNN
 F2 "" 0 -50 50 H I C CNN
 F3 "" 0 -50 50 H I C CNN
 $FPLIST
@@ -185,11 +185,11 @@ X A 4 200 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# R-Device-solo-A-rescue
+# R-Device-solo-A-rescue-solo2-rescue
 #
-DEF R-Device-solo-A-rescue R 0 0 N Y 1 F N
+DEF R-Device-solo-A-rescue-solo2-rescue R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "R-Device-solo-A-rescue" 0 0 50 V V C CNN
+F1 "R-Device-solo-A-rescue-solo2-rescue" 0 0 50 V V C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST

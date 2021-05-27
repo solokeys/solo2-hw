@@ -68,7 +68,7 @@ Wire Wire Line
 Wire Wire Line
 	3650 3650 3800 3650
 $Comp
-L solo2-rescue:R-Device-solo-A-rescue R?
+L solo2-rescue:R-Device-solo-A-rescue-solo2-rescue R?
 U 1 1 5DF57FC3
 P 2500 1550
 AR Path="/5DDFB633/5DF57FC3" Ref="R?"  Part="1" 
@@ -86,7 +86,7 @@ F 8 "0402" H 2500 1550 50  0001 C CNN "Package"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L solo2-rescue:R-Device-solo-A-rescue R?
+L solo2-rescue:R-Device-solo-A-rescue-solo2-rescue R?
 U 1 1 5DF62B4A
 P 3000 1850
 AR Path="/5DDFB633/5DF62B4A" Ref="R?"  Part="1" 
@@ -176,7 +176,7 @@ TOP_D-
 Text Label 3100 2250 0    50   ~ 0
 TOP_D+
 $Comp
-L solo2-rescue:D_Zener_x2_KCom_AAK-Device-solo-A-rescue Z1
+L solo2-rescue:D_Zener_x2_KCom_AAK-Device-solo-A-rescue-solo2-rescue Z1
 U 1 1 5E38FEB4
 P 3900 4750
 F 0 "Z1" V 3900 4829 50  0000 L CNN
@@ -227,8 +227,8 @@ Text Label 5050 2900 2    50   ~ 0
 $Sheet
 S 5600 1750 3300 2100
 U 5DDFB633
-F0 "solo" 50
-F1 "solo.sch" 50
+F0 "module" 50
+F1 "module.sch" 50
 F2 "5V" I L 5600 2900 50 
 F3 "GND" I L 5600 3050 50 
 F4 "D+" I L 5600 3250 50 
@@ -410,7 +410,7 @@ Wire Wire Line
 Wire Wire Line
 	2450 4750 2450 4550
 $Comp
-L solo2-rescue:R-Device-solo-A-rescue R?
+L solo2-rescue:R-Device-solo-A-rescue-solo2-rescue R?
 U 1 1 5E65EF73
 P 2850 4700
 AR Path="/5DDFB633/5E65EF73" Ref="R?"  Part="1" 
